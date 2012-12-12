@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mtjMetadata jad="GobTIJava.jad" version="1.2.2.201110240906">
+   <device group="Nokia SDK 2.0 for Java" name="Nokia_SDK_2_0_Java"/>
+   <signing projectSpecific="false" signProject="false">
+      <alias/>
+   </signing>
+   <configurations>
+      <configuration active="false" name="ClamshellCldcPhone1">
+         <device group="Oracle Java(TM) Platform Micro Edition SDK 3.0.5" name="ClamshellCldcPhone1"/>
+         <symbolSet name="ClamshellCldcPhone1">
+            <symbol name="MMAPI" value="1.2"/>
+            <symbol name="screen.isColor" value="true"/>
+            <symbol name="descriptor" value="Clamshell CLDC emulator"/>
+            <symbol name="screen.bitDepth" value="16"/>
+            <symbol name="JSR82" value="1.1"/>
+            <symbol name="apis.supported" value="J2ME-WS-1.0,JSR179-1.0,JSR180-1.1.0,JSR184-1.1,JSR211-1.0,JSR226-1.0,JSR229-1.1,JSR234-1.0,JSR238-1.0,JSR239-1.0,JSR253-1.0,JSR256-1.2,JSR257-1.0,JSR258-1.0,JSR280-1.0,JSR281-1.0,JSR293-2.0,JSR75-1.0,JSR82-1.1,MMAPI-1.2,SATSA-1.0,WMA-1.1,WMA-2.0"/>
+            <symbol name="JSR280" value="1.0"/>
+            <symbol name="JSR226" value="1.0"/>
+            <symbol name="MIDP" value="2.1"/>
+            <symbol name="JSR281" value="1.0"/>
+            <symbol name="JSR229" value="1.1"/>
+            <symbol name="SATSA" value="1.0"/>
+            <symbol name="CLDC" value="1.1"/>
+            <symbol name="JSR179" value="1.0"/>
+            <symbol name="JSR293" value="2.0"/>
+            <symbol name="WMA" value="2.0"/>
+            <symbol name="J2ME-WS" value="1.0"/>
+            <symbol name="JSR257" value="1.0"/>
+            <symbol name="JSR256" value="1.2"/>
+            <symbol name="screen.width" value="240"/>
+            <symbol name="JSR258" value="1.0"/>
+            <symbol name="JSR238" value="1.0"/>
+            <symbol name="screen.isTouch" value="false"/>
+            <symbol name="JSR239" value="1.0"/>
+            <symbol name="JSR211" value="1.0"/>
+            <symbol name="JSR253" value="1.0"/>
+            <symbol name="JSR234" value="1.0"/>
+            <symbol name="JSR75" value="1.0"/>
+            <symbol name="JSR184" value="1.1"/>
+            <symbol name="version.configuration" value="CLDC-1.1"/>
+            <symbol name="version.profile" value="MIDP-2.1"/>
+            <symbol name="JSR180" value="1.1"/>
+            <symbol name="screen.height" value="320"/>
+         </symbolSet>
+      </configuration>
+      <configuration active="true" name="Nokia_SDK_2_0_Java">
+         <device group="Nokia SDK 2.0 for Java" name="Nokia_SDK_2_0_Java"/>
+         <symbolSet name="Nokia_SDK_2_0_Java">
+            <symbol name="screen.isColor" value="true"/>
+            <symbol name="model" value="Nokia SDK 2.0 for Java"/>
+            <symbol name="screen.bitDepth" value="16"/>
+            <symbol name="JSR82" value="1.1"/>
+            <symbol name="NOKIAUI" value="1.6"/>
+            <symbol name="jsr172_rpc" value="1.1"/>
+            <symbol name="IN-APP-PURCHASE" value="1.0"/>
+            <symbol name="MIDP" value="2.1"/>
+            <symbol name="JSR205" value="2.0"/>
+            <symbol name="CLDC" value="1.1"/>
+            <symbol name="screen.canvas.height" value="248"/>
+            <symbol name="JSR179" value="1.0"/>
+            <symbol name="WMA" value="1.1"/>
+            <symbol name="screen.width" value="240"/>
+            <symbol name="AMMS" value="1.1"/>
+            <symbol name="screen.isTouch" value="true"/>
+            <symbol name="JSR135" value="1.2"/>
+            <symbol name="screen.canvas.width" value="240"/>
+            <symbol name="JSR211" value="1.0"/>
+            <symbol name="screen.canvas.y" value="40"/>
+            <symbol name="screen.canvas.x" value="0"/>
+            <symbol name="SATSA-APDU" value="1.0"/>
+            <symbol name="JSR75" value="1.0"/>
+            <symbol name="SVG" value="1.1"/>
+            <symbol name="Mobile_Sensor_API" value="1.0"/>
+            <symbol name="JSR184" value="1.1"/>
+            <symbol name="SATSA-CRYPTO" value="1.0"/>
+            <symbol name="version.configuration" value="CDLC-1.1"/>
+            <symbol name="jsr172_xmlparser" value="1.1"/>
+            <symbol name="version.profile" value="MIDP-2.1"/>
+            <symbol name="screen.height" value="400"/>
+         </symbolSet>
+      </configuration>
+   </configurations>
+</mtjMetadata>
